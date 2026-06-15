@@ -1,0 +1,122 @@
+[
+  {
+    "id": "p001",
+    "name": "Mzizi Ceramic Pour-Over Set",
+    "category": "Home & Kitchen",
+    "price": 4200,
+    "stock": 14,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?q=80&w=1200&auto=format&fit=crop",
+    "description": "A hand-thrown stoneware dripper paired with a 600ml carafe. Matte clay glaze, walnut collar, and a slow-flow filter cone designed for single-origin Kenyan beans."
+  },
+  {
+    "id": "p002",
+    "name": "Savanna Wool Throw Blanket",
+    "category": "Home & Living",
+    "price": 6800,
+    "stock": 9,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1580301756240-bd5b06a37b66?q=80&w=1200&auto=format&fit=crop",
+    "description": "Woven from undyed highland wool in a herringbone pattern. Generously sized at 150x200cm, finished with a hand-knotted fringe."
+  },
+  {
+    "id": "p003",
+    "name": "Nairobi Skyline Print, A2",
+    "category": "Art & Prints",
+    "price": 2500,
+    "stock": 22,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?q=80&w=1200&auto=format&fit=crop",
+    "description": "Archival giclee print of the Nairobi skyline at dusk, screen-printed in two tones on 250gsm cotton paper. Frame not included."
+  },
+  {
+    "id": "p004",
+    "name": "Field Notebook, Set of 3",
+    "category": "Stationery",
+    "price": 1450,
+    "stock": 40,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?q=80&w=1200&auto=format&fit=crop",
+    "description": "Pocket-sized notebooks with dot-grid pages, sewn bindings, and recycled kraft covers. Sold as a set of three colourways."
+  },
+  {
+    "id": "p005",
+    "name": "Brass Desk Lamp",
+    "category": "Home & Living",
+    "price": 8900,
+    "stock": 6,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?q=80&w=1200&auto=format&fit=crop",
+    "description": "Solid brass task lamp with an articulating arm and a warm 2700K LED bulb. Weighted base in matte black powder coat."
+  },
+  {
+    "id": "p006",
+    "name": "Recycled Canvas Tote",
+    "category": "Bags",
+    "price": 1800,
+    "stock": 35,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1591561954557-26941169b49e?q=80&w=1200&auto=format&fit=crop",
+    "description": "Heavyweight canvas tote made from reclaimed sailcloth, with leather-wrapped handles and an interior zip pocket."
+  },
+  {
+    "id": "p007",
+    "name": "Soapstone Chess Set",
+    "category": "Games",
+    "price": 5200,
+    "stock": 11,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1528819622765-d6bcf132f793?q=80&w=1200&auto=format&fit=crop",
+    "description": "Hand-carved soapstone chess pieces in charcoal and cream, paired with a folding hardwood board with felt-lined storage."
+  },
+  {
+    "id": "p008",
+    "name": "Cold Brew Concentrate, 4-Pack",
+    "category": "Food & Drink",
+    "price": 2200,
+    "stock": 28,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1485808191679-5f86510681a2?q=80&w=1200&auto=format&fit=crop",
+    "description": "Slow-steeped 18-hour cold brew concentrate, single-origin AA beans. Dilute 1:3 with water or milk. Pack of four 250ml bottles."
+  },
+  {
+    "id": "p009",
+    "name": "Linen Apron, Charcoal",
+    "category": "Home & Kitchen",
+    "price": 3100,
+    "stock": 17,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?q=80&w=1200&auto=format&fit=crop",
+    "description": "Heavyweight washed linen apron with adjustable neck strap, cross-back ties, and a deep front pocket. One size fits most."
+  },
+  {
+    "id": "p010",
+    "name": "Terrazzo Coasters, Set of 4",
+    "category": "Home & Living",
+    "price": 1600,
+    "stock": 30,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1611269154421-4e27233ac5c7?q=80&w=1200&auto=format&fit=crop",
+    "description": "Cast terrazzo coasters with a cork backing, each one unique. Set of four in warm neutral tones."
+  },
+  {
+    "id": "p011",
+    "name": "Walnut Cutting Board",
+    "category": "Home & Kitchen",
+    "price": 4700,
+    "stock": 8,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1604881991720-f91add269bed?q=80&w=1200&auto=format&fit=crop",
+    "description": "End-grain walnut board with a juice groove and integrated handle, finished with food-safe mineral oil."
+  },
+  {
+    "id": "p012",
+    "name": "Merino Beanie, Clay",
+    "category": "Apparel",
+    "price": 2100,
+    "stock": 24,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1576871337622-98d48d1cf531?q=80&w=1200&auto=format&fit=crop",
+    "description": "Ribbed merino wool beanie, unlined for breathability. One size, naturally regulates temperature."
+  }
+]

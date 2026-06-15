@@ -1,0 +1,50 @@
+[
+  {
+    "id": "r001",
+    "productId": "p001",
+    "buyerName": "Wanjiru K.",
+    "rating": 5,
+    "comment": "The glaze colour is even nicer in person. Pours evenly and the carafe keeps coffee hot for ages.",
+    "date": "2026-05-20"
+  },
+  {
+    "id": "r002",
+    "productId": "p001",
+    "buyerName": "Tom O.",
+    "rating": 4,
+    "comment": "Beautiful set. The filter cone is slightly narrow for thicker filter papers, but works great with the recommended ones.",
+    "date": "2026-05-28"
+  },
+  {
+    "id": "r003",
+    "productId": "p005",
+    "buyerName": "Amani N.",
+    "rating": 5,
+    "comment": "Sturdy and the warm light is perfect for evening reading. Arm holds its position without drifting.",
+    "date": "2026-06-01"
+  },
+  {
+    "id": "r004",
+    "productId": "p003",
+    "buyerName": "Lindiwe S.",
+    "rating": 5,
+    "comment": "Print quality is excellent, colours are rich without being garish. Looks great framed in oak.",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "r005",
+    "productId": "p007",
+    "buyerName": "Brian M.",
+    "rating": 5,
+    "comment": "Pieces feel substantial in hand and the board folds away neatly. Great gift.",
+    "date": "2026-06-09"
+  },
+  {
+    "id": "r006",
+    "productId": "p002",
+    "buyerName": "Faith A.",
+    "rating": 4,
+    "comment": "Lovely texture and warmth, slightly heavier than expected but that's a plus for cold evenings.",
+    "date": "2026-06-10"
+  }
+]

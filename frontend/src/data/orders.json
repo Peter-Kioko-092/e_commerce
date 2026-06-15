@@ -1,0 +1,33 @@
+[
+  {
+    "id": "ORD-1042",
+    "date": "2026-06-02",
+    "status": "delivered",
+    "total": 7700,
+    "items": [
+      { "productId": "p001", "name": "Mzizi Ceramic Pour-Over Set", "quantity": 1, "price": 4200 },
+      { "productId": "p004", "name": "Field Notebook, Set of 3", "quantity": 1, "price": 1450 },
+      { "productId": "p010", "name": "Terrazzo Coasters, Set of 4", "quantity": 1, "price": 1600 }
+    ]
+  },
+  {
+    "id": "ORD-1051",
+    "date": "2026-06-08",
+    "status": "dispatched",
+    "total": 8900,
+    "items": [
+      { "productId": "p005", "name": "Brass Desk Lamp", "quantity": 1, "price": 8900 }
+    ]
+  },
+  {
+    "id": "ORD-1063",
+    "date": "2026-06-12",
+    "status": "pending",
+    "total": 4300,
+    "items": [
+      { "productId": "p006", "name": "Recycled Canvas Tote", "quantity": 1, "price": 1800 },
+      { "productId": "p012", "name": "Merino Beanie, Clay", "quantity": 1, "price": 2100 },
+      { "productId": "p004", "name": "Field Notebook, Set of 3", "quantity": 1, "price": 1450 }
+    ]
+  }
+]
